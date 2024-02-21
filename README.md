@@ -2,7 +2,7 @@
 
 Classifying cancer images using CNN
 
-Over the last few decades Machine learning has proven to be incredibly useful for medical imaging analysis due to its ability to handle large amounts of data, identify patterns, and assist medical professionals in making more accurate diagnoses and treatment decisions. A Machine learning model will not tire like a person will and can reduce human error, increase the rates of early detections of diseases and do so in an accurate and precise way that even the most skilled person may struggle with. To help further the process along (albeit for free), a competition was held to determine if an algorithm could be developed to identify metastatic cancer in image patches as small as 1 pixel.
+Over the last few decades Machine learning has proven to be incredibly useful for medical imaging analysis due to its ability to handle large amounts of data, identify patterns, and assist medical professionals in making more accurate diagnoses and treatment decisions. A Machine learning model will not tire like a person will and can reduce human error, increase the rates of early detections of diseases and do so in an accurate and precise way that even the most skilled person may struggle with. To help further the process along, a competition was held to determine if an algorithm could be developed to identify metastatic cancer in image patches as small as 1 pixel.
 
 About the dataset:
 
