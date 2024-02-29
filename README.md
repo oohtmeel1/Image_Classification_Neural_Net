@@ -1,4 +1,4 @@
-# Week3DeepLearning
+# Image Classification Using Machine Learning
 
 Classifying cancer images using CNN
 
